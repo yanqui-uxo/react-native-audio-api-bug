@@ -12,7 +12,8 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.zdiesing.test",
       "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSMicrophoneUsageDescription": "We need access to the microphone to record audio."
       }
     },
     "android": {
